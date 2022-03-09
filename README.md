@@ -2,6 +2,10 @@
 
 This project looks into Super Bowl commercials for 10 popular brands from 2000 to 2021, including links to each and additional information about the length, estimated cost, YouTube statistics, TV viewers, and defining characteristics.
 
+![sb2000](https://user-images.githubusercontent.com/60885938/157529506-62293d85-68ba-4bfb-a3ff-eef8acf625b4.png)
+![Super_Bowl_LV](https://user-images.githubusercontent.com/60885938/157529785-c1e6cc78-15f4-499a-9d44-d3d54f7d2a22.png)
+
+
 ### Recommended Analysis:
 1. Which brand has had the most Super Bowl commercials? Do they have a distinct style?
 2. How have different characteristics for commercials trended across time?
@@ -19,7 +23,9 @@ This project looks into Super Bowl commercials for 10 popular brands from 2000 t
 * Pepsi
 * Toyota
 
-![All_Logos](C:\Users\lucas164119\Desktop\Projects\Portfolio\SuperBowlCommercials\logos/all_logos.png)
+<img width="465" alt="all_logos" src="https://user-images.githubusercontent.com/60885938/157529113-a70cead7-e1a9-4759-8a02-dd67372392bf.png">
+
+### Please download the Power BI file or .pdf file for further context on the analysis that was done.
 
 ### Analysis & Recommendations:
 
